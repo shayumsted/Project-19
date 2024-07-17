@@ -1,1 +1,1 @@
-# Project-19
+We will be developing a Tour Comparison app that will work to display rendering components, interact with different API's, and show management of state application within React. The tour data will be brought into the app for display, wherer the information can vary depending on the tour choice.
