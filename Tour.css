@@ -1,0 +1,36 @@
+.single-tour {
+    background: #fff;
+    border-radius: 0.25rem;
+    transition: all 0.3s linear;
+    margin-bottom: 2rem;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); }
+  
+  .single-tour img {
+    width: 100%;
+    display: block;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;}
+  
+  .tour-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem 0;}
+  
+  .tour-price {
+    color: #5a8fb4;
+    background: #ebf7ff;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;}
+  
+  .delete-btn {
+    background: #eed97b;
+    color: white;
+    border: none;
+    padding: 0.5rem 0.75rem;
+    cursor: pointer;
+    border-radius: 0.25rem;
+    margin-top: 1rem;}
+  
+  .delete-btn:hover {
+    background: #6ecfa7;}  
